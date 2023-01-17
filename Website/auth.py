@@ -32,7 +32,7 @@ def sign_up():
             flash(' Password must be at least 8 characters.', category='ERROR')
         else:
 
-            flash('Account created.', category='SUCCESS')
+            flash('Account created!', category='SUCCESS')
 
 
 
